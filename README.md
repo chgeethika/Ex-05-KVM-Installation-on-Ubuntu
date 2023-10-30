@@ -1,4 +1,4 @@
-![image](https://github.com/chgeethika/Ex-05-KVM-Installation-on-Ubuntu/assets/142209368/7726d5c9-f538-4344-9f1b-798c3e34b48c)# Ex-05-KVM-Installation-on-Ubuntu
+# Ex-05-KVM-Installation-on-Ubuntu
 ## Aim:
 To implement CPU Virtualization KVM is installed in ubuntu 12.04 and higher Version.
 
